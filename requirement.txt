@@ -1,0 +1,6 @@
+Requirement:
+Python version 3.10.10
+Librosa
+numpy version 1.23.5
+matplotlib
+
